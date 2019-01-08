@@ -1,5 +1,5 @@
 # Visualizations-Using-Python
-This Repo contains Visualizations Using Python Matplotlib And Pygal Packages
+This Repo contains Visualizations Using Python Matplotlib And Pygal Packages.
 
 Using Matplotlib generating visualizations for temperature data of Death valley and Sitka.The temperature data is in CSV file.
 
